@@ -1,6 +1,6 @@
 # Creative Market Downloader
 
-> https://serp.ly/creative-market-downloader
+> Download Creative Market assets including fonts, graphics, and templates
 
 ![Creative Market Downloader](https://raw.githubusercontent.com/serpapps/creative-market-downloader/assets/images/creative-market-downloader.gif)
 
@@ -54,4 +54,10 @@ Creative Market Downloader is a powerful tool that helps you download content fr
 ## More Info
 
 - 📁 Repository [here](https://github.com/serpapps/creative-market-downloader)
+
+<details>
+<summary>Keywords</summary>
+
+creative market downloader
+</details>
 
